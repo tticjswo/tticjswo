@@ -1,4 +1,4 @@
-### Welcome to TOMMY's World 👋
+### 생각하는 기획/개발자 김상현 입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunwon1997)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
