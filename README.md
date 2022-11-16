@@ -3,6 +3,9 @@
 관심 방향 : 백엔드 , 서버 , API 개발자 / 데이터베이스 관리자 
 
 
+2022.11 블로그 형식으로 전체 개편. 가독성을 높이려고 노력했습니다.
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunwon1997)](https://hits.seeyoufarm.com)
 <!--
